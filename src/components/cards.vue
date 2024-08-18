@@ -17,6 +17,13 @@ export default {
             <card/>
             <card/>
         </div></center>
+        <br/>
+        <center><div class="cardsBox">
+            <card/>
+            <card/>
+            <card/>
+        </div></center>
+        <br/><br/>
         
     </div class="bigBox">
 </template>

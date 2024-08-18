@@ -2,7 +2,6 @@
     <div>
         <div class="box">
             <h2>პარადონტოლოგია </h2>
-
         </div>
         
     </div>
@@ -23,6 +22,7 @@ export default {
 h2{
     font-weight: 600;
     color: white;
+    transform: translateY(90px);
 }
     
 </style>

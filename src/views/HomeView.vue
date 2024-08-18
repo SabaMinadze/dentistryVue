@@ -4,6 +4,7 @@ import head1 from '../components/head1.vue'
 import head2 from '../components/head2.vue'
 import head3 from "../components/head3.vue"
 import cards from "../components/cards.vue"
+import residency from "../components/residency.vue"
 </script>
 
 <template>
@@ -12,5 +13,6 @@ import cards from "../components/cards.vue"
     <head2/>
     <head3/>
     <cards/>
+    <residency/>
   </div>
 </template>
