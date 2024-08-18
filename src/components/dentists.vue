@@ -1,19 +1,17 @@
 <script>
-import dentaCard from "../components/dentalCard.vue"
+import dentalCard from "../components/dentalCard.vue"
 import data from '../data.json'
 export default {
-    name: 'App',
-    components: {
-        dentaCard,
+  name: 'App',
+  components: {
+    dentalCard,
   },
-  dara() {
+  data() {
     return {
-        data1: data,
-
+        data: data,
     }
-  }
-    
-}
+  },
+};
 </script>
 
 <template>
@@ -21,7 +19,7 @@ export default {
         <div class="bigBox">
             <center><h2>ჩვენი სტომატოლოგები</h2></center>
             <div class="card">
-                <dentaCard v-for="(item, index) in data1 " :key="index" :nivti="item"/>
+                <dentalCard v-for="(item, index) in data " :key="index" :nivti="item"/>
             </div>
         </div>    
     </div>

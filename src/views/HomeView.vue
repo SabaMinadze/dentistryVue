@@ -7,7 +7,6 @@ import cards from "../components/cards.vue"
 import residency from "../components/residency.vue"
 import achivements from "../components/achivements.vue"
 import dentists from "../components/dentists.vue"
-import dentalcard from "../components/dentists.vue"
 </script>
 
 <template>
