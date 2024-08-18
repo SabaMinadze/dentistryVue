@@ -2,6 +2,7 @@
 import head1 from '../components/head1.vue'
 import head2 from '../components/head2.vue'
 import head3 from "../components/head3.vue"
+import cards from "../components/cards.vue"
 </script>
 
 <template>
@@ -9,5 +10,6 @@ import head3 from "../components/head3.vue"
     <head1/>
     <head2/>
     <head3/>
+    <cards/>
   </div>
 </template>
