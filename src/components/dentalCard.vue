@@ -1,3 +1,12 @@
+<script>
+export default {
+    props:{
+        
+    }
+    
+}
+</script>
+
 <template>
     <div>
         <div class="dentalCard">
@@ -5,11 +14,8 @@
         </div>        
     </div>
 </template>
-<script>
-export default {
-    
-}
-</script>
+
+
 <style scoped>
 .dentalCard{
     height: 330px;
