@@ -1,6 +1,7 @@
 <template>
     <div>
         <div class="box">
+            <h2>პარადონტოლოგია </h2>
 
         </div>
         
@@ -17,6 +18,11 @@ export default {
     width: 400px;
     border-radius: 10px;
     background-color: rgb(0,101,237);
+}
+
+h2{
+    font-weight: 600;
+    color: white;
 }
     
 </style>

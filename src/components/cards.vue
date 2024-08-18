@@ -10,7 +10,7 @@ export default {
 </script>
 
 <template>
-    <div>
+    <div class="bigBox">
         <h1 class="text">სერვისები</h1>
         <center><div class="cardsBox">
             <card/>
@@ -18,12 +18,12 @@ export default {
             <card/>
         </div></center>
         
-    </div>
+    </div class="bigBox">
 </template>
 <style scoped>
 .cardsBox{
     display: flex;
-    margin-top: 100px;
+    margin-top: 20px;
     align-items: center;
     text-align: center;
     gap: 30px;
@@ -34,6 +34,11 @@ export default {
     color: rgb(0,107,238);
     font-weight: 900;
     text-align: center
+}
+
+.bigBox{
+    margin-top: 20px;
+    text-align: center;
 }
     
 </style>

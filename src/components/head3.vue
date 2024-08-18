@@ -3,6 +3,7 @@
         <div class="box">
             <h1>ალგანი დენტი</h1>
             <button>კითხვა გაქვთ? დაგვიკავშირდით</button>
+            <img src="../assets/logo2.png" alt="error">
         </div>
         
     </div>
@@ -22,14 +23,44 @@ export default {
 h1{
     color: rgb(0,101,237);
     font-weight: 900;
-    margin-left: 190px;
+    margin-left: 180px;
     transform: translateY(170px);
+    font-size: 28px;
 }
 
 button{
-    margin-left: 190px;
-    transform: translateY(175px);
+    margin-left: 180px;
+    background-color: rgb(0,101,237);
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    border: 1px solid white;
+    transform: translateY(-40px);
+    cursor: pointer;
+}
 
+button:hover{
+    margin-left: 180px;
+    background-color: rgb(9, 84, 182);
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    border: 1px solid white;
+    transform: translateY(-40px);
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+img{
+    margin-left: 570px;
+    transform: translateY(30px);
 }
     
 </style>
