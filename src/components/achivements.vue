@@ -1,7 +1,11 @@
 <template>
     <div>
         <center><div class="bigBox">
+            <center><h2>ჩვენი მიღწევები</h2></center>
             <img src="../assets/kbili1.jpg" alt="error" height="300" width="300">
+            <img src="../assets/kbili2.jpg" alt="error" height="300" width="300">
+            <img src="../assets/kbili3.jpg" alt="error" height="300" width="300">
+            <img src="../assets/kbili4.jpg" alt="error" height="300" width="300">
         </div></center>
         
     </div>
@@ -13,7 +17,22 @@ export default {
 </script>
 <style scoped>
 .bigBox{
-    transform: translateY(-140px);
+    transform: translateY(-220px);
+}
+
+img{
+    border: 5px solid blue;
+    margin-left: 30px;
+    border-radius: 10px;
+    width: 270px;
+
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(0,101,237);
+    transform: translateY(-30px);
 }
 
 

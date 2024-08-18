@@ -6,6 +6,8 @@ import head3 from "../components/head3.vue"
 import cards from "../components/cards.vue"
 import residency from "../components/residency.vue"
 import achivements from "../components/achivements.vue"
+import dentists from "../components/dentists.vue"
+import dentalcard from "../components/dentists.vue"
 </script>
 
 <template>
@@ -16,5 +18,6 @@ import achivements from "../components/achivements.vue"
     <cards/>
     <residency/>
     <achivements/>
+    <dentists/>
   </div>
 </template>
