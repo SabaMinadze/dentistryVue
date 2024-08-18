@@ -13,7 +13,7 @@
 
 <style scoped>
 .box{
-    height: 40px;
+    height: 35px;
     width: 100%;
     background-color: rgb(180,212,255);
     color: rgb(23,111,238);
