@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { RouterLink, RouterView } from 'vue-router'
 import head1 from '../components/head1.vue'
 import head2 from '../components/head2.vue'
 import head3 from "../components/head3.vue"

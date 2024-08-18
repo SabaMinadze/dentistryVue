@@ -1,6 +1,8 @@
 <template>
     <div>
-        <div class="box"></div>
+        <div class="box">
+            <h1>ალგანი დენტი</h1>
+        </div>
         
     </div>
 </template>
@@ -14,6 +16,11 @@ export default {
     width: 100%;
     height: 450px;
     background-color: rgb(180,212,255);
+}
+
+h1{
+    color: rgb(0,101,237);
+    font-weight: 900;
 }
     
 </style>
