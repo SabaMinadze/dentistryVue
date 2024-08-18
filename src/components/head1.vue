@@ -16,7 +16,7 @@
 .box{
     height: 40px;
     width: 100%;
-    background-color: rgb(108,34,166);
+    background-color: rgb(180,212,255);
     color: white;
     font-size: 10px;
     display: flex;
@@ -39,5 +39,6 @@
     display: flex;
     margin-left: 550px;
 }
+
 
 </style>
