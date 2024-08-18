@@ -21,8 +21,6 @@ export default {
             <card/>
             </div></center>
             <br/>
-        <br/><br/>
-        <h1>hello</h1>    
     </div class="bigBox">        
     </div>
 </template>
