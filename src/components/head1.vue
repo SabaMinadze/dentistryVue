@@ -1,7 +1,7 @@
 <template>
     <div class="box">
         <div class="txt">
-            <h1>გამოიწერე YouTube-ის არხი</h1>
+            <h1>ქ. თბილისი, დიდუბე, ვახუშტი ბაგრატიონის #19</h1>
             <a href="https://www.youtube.com/@val-do"><button class="btn">გამოიწერე</button></a>
         </div>
         
