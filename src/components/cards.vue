@@ -11,7 +11,7 @@ export default {
 
 <template>
     <div class="bigBox">
-        <h1 class="text">სერვისები</h1>
+        <center><h1 class="text">სერვისები</h1></center>
         <center><div class="cardsBox">
             <card/>
             <card/>
@@ -40,7 +40,7 @@ export default {
 .text{
     color: rgb(0,107,238);
     font-weight: 900;
-    text-align: center
+    text-align: center;
 }
 
 .bigBox{

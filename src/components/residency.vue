@@ -1,16 +1,31 @@
+<script>
+import card from '../components/card.vue'
+export default {
+    name: 'App',
+    components: {
+    card,
+  },
+    
+}
+</script>
+
 <template>
     <div>
         <div class="box">
             <center><h2>რეზიდენტურა</h2></center>
-        </div>
-        
+            </div>
+            <div class="bigBox">
+            <center><div class="cardsBox">
+            <card/>
+            <card/>
+            <card/>
+            </div></center>
+            <br/>
+        <br/><br/>
+        <h1>hello</h1>    
+    </div class="bigBox">        
     </div>
 </template>
-<script>
-export default {
-    
-}
-</script>
 <style scoped>
 .box{
     height: 400px;
@@ -21,6 +36,30 @@ export default {
 
 h2{
     font-size: 30px;
-    font-weight: 600;
+    font-weight: 700;
+    color: rgb(0,101,237);
+    transform: translateY(40px);
+}
+
+
+.cardsBox{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    margin-left: 150px;
+}
+
+.text{
+    color: rgb(0,107,238);
+    font-weight: 900;
+    text-align: center;
+}
+
+.bigBox{
+    margin-top: 20px;
+    text-align: center;
+    transform: translateY(-300px);
 }
 </style>
