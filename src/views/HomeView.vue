@@ -5,6 +5,7 @@ import head2 from '../components/head2.vue'
 import head3 from "../components/head3.vue"
 import cards from "../components/cards.vue"
 import residency from "../components/residency.vue"
+import achivements from "../components/achivements.vue"
 </script>
 
 <template>
@@ -14,5 +15,6 @@ import residency from "../components/residency.vue"
     <head3/>
     <cards/>
     <residency/>
+    <achivements/>
   </div>
 </template>
