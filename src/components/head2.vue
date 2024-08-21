@@ -1,15 +1,15 @@
 <template>
-    <div>
+    <div class="bigBox">
         <div class="box">
             <img src="../assets/logo.png" alt="error" height="110px" width="300px">
+            <div class="vl"></div>
             <ul>
-                <li><p>კურსები</p></li>
-                <li><p>რეზიუმეები</p></li>
-                <li><p>ქვიზები</p></li>
-                <li><p>გამოწვევები</p></li>
-                <li><p>ბლოგი</p></li>
-                <li><p>კონვერტორები</p></li>
-                <li><p>შესვლა</p></li>
+                <li><p>მთავარი</p></li>
+                <li><p>სერვისები</p></li>
+                <li><p>რეზიდენტურა</p></li>
+                <li><p>ჩვენი სტომატოლოგები</p></li>
+                <li><p>ჩვენს შესახებ</p></li>
+                <li><p>კონტაქტი</p></li>
             </ul>
 
         </div>
@@ -22,6 +22,17 @@
 </script>
 
 <style scoped>
+.bigBox{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #333; /* Change to your desired background color */
+    z-index: 1000; /* Ensure the navbar stays on top */
+    box-shadow:  rgb(0,101,237);
+    border: 1px solid white;
+
+}
+
 .box{
     height: 115px;
     width: 100%;
@@ -33,7 +44,7 @@ ul{
     display: flex;
     list-style: none;
     color: rgb(255,255,255);
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     margin-left: 500px;
     transform: translateY(-80px);
