@@ -33,6 +33,15 @@
 
 }
 
+.vl {
+    border-left: 1px solid white;
+    height: 115px;
+    position: absolute;
+    left: 27%;
+    margin-left: -3px;
+    top: 0;
+}
+
 .box{
     height: 115px;
     width: 100%;
