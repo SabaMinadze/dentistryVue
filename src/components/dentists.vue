@@ -30,6 +30,6 @@ export default {
 
 <style scoped>
 .bigBox{
-    background-color: blue;
+    background-color: rgb(180,212,255);
 }
 </style>
