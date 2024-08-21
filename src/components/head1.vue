@@ -25,7 +25,7 @@
 
 .txt{
     display: flex;
-    margin-left: 830px;
+    margin-left: 750px;
 }
 
 
