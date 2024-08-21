@@ -2,6 +2,8 @@
     <div>
         <div class="footer">
             <center><img src="../assets/loggo1.png" alt="error" height="150" width="380"></center>
+            <center><h2>📞 574 42 42 38</h2></center>
+            <center><h2>🗺️ ქ. თბილისი, დიდუბე, ვახუშტი ბაგრატიონის #19</h2></center>
         </div>
         
     </div>
@@ -21,5 +23,11 @@ export default {
 img{
     margin-top: 40px;
 }
+
+h2{
+    color: white;
+    font-size: 20px;
+}
+
     
 </style>
