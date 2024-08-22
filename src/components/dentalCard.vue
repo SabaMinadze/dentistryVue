@@ -81,7 +81,7 @@ h2{
 /* Styles for mobile screens */
 @media (max-width: 949px) {
     .dentalCard {
-        height: auto;
+        height: 380px;
         width: 90%;
         max-width: 300px;
         background-color: rgb(236, 244, 255);
@@ -118,7 +118,7 @@ h2{
     }
 
     .card-img {
-        height: 120px;
+        height: 180px;
         width: auto;
     }
 
