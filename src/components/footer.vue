@@ -1,43 +1,68 @@
 <template>
     <div>
         <div class="footer">
-            <center><img src="../assets/loggo1.png" alt="error" height="150" width="380"></center>
-            <center><h2>📞 574 42 42 38</h2></center>
-            <center><hr/></center>
-            <center><h2>🗺️ ქ. თბილისი, დიდუბე, ვახუშტი ბაგრატიონის #19</h2></center>
+            <center><img src="../assets/loggo1.png" alt="error" class="footer-img"></center>
+            <center><h2 class="footer-text">📞 574 42 42 38</h2></center>
+            <center><hr class="footer-hr"/></center>
+            <center><h2 class="footer-text">🗺️ ქ. თბილისი, დიდუბე, ვახუშტი ბაგრატიონის #19</h2></center>
         </div>
-        
     </div>
 </template>
+
 <script>
-export default {
-    
-}
+export default {}
 </script>
+
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){
-    .footer{
-    width: 100%;
-    height: 290px;
-    background-color: rgb(0,101,237);
+/* Styles for larger screens */
+@media (min-width: 1200px) {
+    .footer {
+        width: 100%;
+        height: 290px;
+        background-color: rgb(0, 101, 237);
+    }
+
+    .footer-img {
+        margin-top: 30px;
+        height: 150px;
+        width: 380px;
+    }
+
+    .footer-text {
+        color: white;
+        font-size: 20px;
+    }
+
+    .footer-hr {
+        color: white;
+        width: 700px;
+    }
 }
 
-img{
-    margin-top: 30px;
-}
+/* Styles for mobile screens */
+@media (max-width: 950px) {
+    .footer {
+        width: 100%;
+        padding: 20px 0;
+        background-color: rgb(0, 101, 237);
+        text-align: center;
+    }
 
-h2{
-    color: white;
-    font-size: 20px;
-}
-hr{
-    color: white;
-    width: 700px;
-}
-}
+    .footer-img {
+        height: 100px;
+        width: 250px;
+    }
 
-@media (min-width: 220px) and (max-width: 950px){}
+    .footer-text {
+        color: white;
+        font-size: 16px;
+        margin-top: 10px;
+    }
 
-
-    
+    .footer-hr {
+        color: white;
+        width: 80%;
+        margin: 10px auto;
+    }
+}
 </style>
