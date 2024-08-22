@@ -28,8 +28,8 @@ export default {
     </div class="bigBox">
 </template>
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){}
-.cardsBox{
+@media (min-width: 1200px) and (max-width: 7777px){
+    .cardsBox{
     display: flex;
     margin-top: 20px;
     align-items: center;
@@ -48,5 +48,8 @@ export default {
     margin-top: 20px;
     text-align: center;
 }
+
+}
+
     
 </style>

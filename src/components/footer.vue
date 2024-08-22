@@ -15,8 +15,8 @@ export default {
 }
 </script>
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){}
-.footer{
+@media (min-width: 1200px) and (max-width: 7777px){
+    .footer{
     width: 100%;
     height: 290px;
     background-color: rgb(0,101,237);
@@ -34,6 +34,8 @@ hr{
     color: white;
     width: 700px;
 }
+}
+
 
     
 </style>

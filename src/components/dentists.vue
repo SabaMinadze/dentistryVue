@@ -31,8 +31,8 @@ export default {
 
 
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){}
-.bigBox{
+@media (min-width: 1200px) and (max-width: 7777px){
+  .bigBox{
     background-color: rgb(180,212,255);
     border: 1px solid blue;
 }
@@ -54,4 +54,6 @@ export default {
     font-weight: 700;
     color: rgb(0,101,237);
 }
+}
+
 </style>

@@ -21,8 +21,8 @@ export default {
 </template>
 
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){}
-.dentalCard {
+@media (min-width: 1200px) and (max-width: 7777px){
+  .dentalCard {
     height: 330px;
     width: 290px;
     background-color: rgb(236,244,255);
@@ -45,5 +45,7 @@ h1{
 h2{
     font-size: 21px;
 }
+}
+
 
 </style>

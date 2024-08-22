@@ -12,8 +12,8 @@
 </script>
 
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){}
-.box{
+@media (min-width: 1200px) and (max-width: 7777px){
+    .box{
     height: 35px;
     width: 100%;
     background-color: rgb(180,212,255);
@@ -28,6 +28,8 @@
     display: flex;
     margin-left: 750px;
 }
+}
+
 
 @media (min-width: 220px) and (max-width: 950px){}
 
