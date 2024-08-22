@@ -49,6 +49,7 @@ export default {
         align-items: center;
         text-align: center;
         gap: 30px;
+        margin-left: 140px;
     }
 
     .text {

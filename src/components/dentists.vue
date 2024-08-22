@@ -19,7 +19,7 @@ export default {
 <template>
     <div>
       <div class="bigBox">
-        <center><h2 class="txt">ჩვენი მიღწევები</h2></center>
+        <center><h2 class="txt">ჩვენი სტომატოლოგები</h2></center>
         <div class="card">
           <dentalCard v-for="(item, index) in dental1" :key="item.id" :nivti="item" class="cards"/>
         </div>

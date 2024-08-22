@@ -45,8 +45,8 @@ button{
 }
 
 button:hover{
-    margin-left: -600px;
-    background-color: rgb(9, 84, 182);
+    margin-left: -830px;
+    background-color: rgb(15, 69, 138);
     width: 350px;
     height: 40px;
     border-radius: 15px;
@@ -54,9 +54,8 @@ button:hover{
     color: white;
     font-weight: 600;
     border: 1px solid white;
-    transform: translateY(100px);
+    transform: translateY(180px);
     cursor: pointer;
-    transition: 0.5s;
 
 }
 

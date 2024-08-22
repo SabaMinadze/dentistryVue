@@ -35,6 +35,7 @@ export default {
         align-items: center;
         justify-content: center;
         gap: 30px;
+        margin-top: 10px;
     }
 
     .text {
