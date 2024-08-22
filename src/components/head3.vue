@@ -1,9 +1,9 @@
 <template>
     <div>
         <div class="box">
-            <h1>ალგანი დენტი</h1>
-            <button>კითხვა გაქვთ? დაგვიკავშირდით</button>
-            <img src="../assets/logo2.png" alt="error">
+            <center><h1>ალგანი დენტი</h1></center>
+            <center><button>კითხვა გაქვთ? დაგვიკავშირდით</button></center>
+            <center><img src="../assets/logo2.png" alt="error"></center>
         </div>
         
     </div>
@@ -65,7 +65,56 @@ img{
 }
 }
 
-@media (min-width: 220px) and (max-width: 950px){}
+@media (min-width: 220px) and (max-width: 950px){
+    .box{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(180,212,255);
+}
+
+h1{
+    color: rgb(0,101,237);
+    font-weight: 900;
+    transform: translateY(270px);
+    font-size: 25px;
+}
+
+button{
+    background-color: rgb(0,101,237);
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    border: 1px solid white;
+    transform: translateY(290px);
+    cursor: pointer;
+}
+
+button:hover{
+    margin-left: 180px;
+    background-color: rgb(9, 84, 182);
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    border: 1px solid white;
+    transform: translateY(-40px);
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+img{
+    height: 170px;
+    width: 170px;
+    transform: translateY(-70px);
+}
+
+}
 
     
 </style>

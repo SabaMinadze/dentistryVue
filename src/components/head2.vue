@@ -90,10 +90,10 @@ img{
 
 .vl {
     border-left: 1px solid white;
-    height: 115px;
+    height: 80px;
     position: absolute;
     left: 27%;
-    margin-left: -3px;
+    margin-left: 75px;
     top: 0;
 }
 
@@ -110,6 +110,27 @@ img{
     width: 160px;
     margin-left: 20px;
     margin-top: 10px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    color: rgb(0, 0, 0);
+    font-size: 7px;
+    font-weight: 700;
+    margin-left: 5px;
+    transform: translateY(-80px);
+    gap: 20px;
+}
+
+p{
+    font-weight: 600;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.txt{
+    margin-left: 1px;
 }
 
 
