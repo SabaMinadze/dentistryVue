@@ -14,8 +14,8 @@ export default {
 }
 </script>
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){}
-.box{
+@media (min-width: 1200px) and (max-width: 7777px){
+    .box{
     width: 100%;
     height: 450px;
     background-color: rgb(180,212,255);
@@ -63,5 +63,7 @@ img{
     margin-left: 570px;
     transform: translateY(30px);
 }
+}
+
     
 </style>
