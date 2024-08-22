@@ -35,5 +35,6 @@ import footer1 from "../components/footer.vue"
   display: grid;
   place-items: center;
   height: 100vh;
+  margin-top: 100px;
 }
 </style>

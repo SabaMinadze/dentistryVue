@@ -23,7 +23,6 @@ export default {
             <card/>
             <card/>
         </div>
-        <br/><br/>
         
     </div class="bigBox">
 </template>
@@ -52,11 +51,10 @@ export default {
 
 @media (min-width: 220px) and (max-width: 950px){
     .cardsBox{
-    display: flex;
-    margin-top: 20px;
-    align-items: center;
+    display: inline-flexbox;
     text-align: center;
-    gap: 30px;
+    gap: 90px;
+    
     
 }
 
