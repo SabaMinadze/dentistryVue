@@ -26,9 +26,9 @@ h2{
     transform: translateY(90px);
 }
 
-
-
 }
+
+@media (min-width: 220px) and (max-width: 950px){}
 
     
 </style>

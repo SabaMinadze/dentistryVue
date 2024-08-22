@@ -70,7 +70,9 @@ h2{
     width: 100%;
     background-color: rgb(180,212,255);
     border: 1px solid blue;
-}    
+}
+
+@media (min-width: 220px) and (max-width: 950px){}
 
 
 </style>
