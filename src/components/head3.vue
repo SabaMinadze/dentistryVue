@@ -14,6 +14,7 @@ export default {
 }
 </script>
 <style scoped>
+@media (min-width: 1200px) and (max-width: 7777px){}
 .box{
     width: 100%;
     height: 450px;

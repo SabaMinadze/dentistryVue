@@ -22,6 +22,7 @@
 </script>
 
 <style scoped>
+@media (min-width: 1200px) and (max-width: 7777px){}
 .bigBox{
     position: sticky;
     top: 0;

@@ -21,6 +21,7 @@ export default {
 </template>
 
 <style scoped>
+@media (min-width: 1200px) and (max-width: 7777px){}
 .dentalCard {
     height: 330px;
     width: 290px;

@@ -25,7 +25,9 @@ export default {
     </div>
 </template>
 <style scoped>
-.box{
+
+@media (min-width: 1200px) and (max-width: 7777px){
+    box{
     height: 400px;
     width: 100%;
     background-color: rgb(180,212,255);
@@ -60,4 +62,15 @@ h2{
     text-align: center;
     transform: translateY(-300px);
 }
+
+}
+
+.box{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(180,212,255);
+    border: 1px solid blue;
+}    
+
+
 </style>

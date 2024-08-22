@@ -15,6 +15,7 @@ export default {
 }
 </script>
 <style scoped>
+@media (min-width: 1200px) and (max-width: 7777px){}
 .footer{
     width: 100%;
     height: 290px;
