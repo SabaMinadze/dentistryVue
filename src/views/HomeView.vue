@@ -34,7 +34,6 @@ import footer1 from "../components/footer.vue"
 .residency{
   display: grid;
   place-items: center;
-  height: 200vh;
-
+  height: 100vh;
 }
 </style>

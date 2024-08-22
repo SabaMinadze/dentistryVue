@@ -20,7 +20,7 @@ export default {
             <card/>
             <card/>
             </div></center>
-            <br/>
+            <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     </div class="bigBox">        
     </div>
 </template>
@@ -48,6 +48,7 @@ h2{
     align-items: center;
     text-align: center;
     gap: 30px;
+    margin-top: 5px;
     
 }
 
