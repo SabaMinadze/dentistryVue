@@ -30,7 +30,7 @@ h1{
 }
 
 button{
-    margin-left: 180px;
+    margin-left: -830px;
     background-color: rgb(0,101,237);
     width: 350px;
     height: 40px;
@@ -39,12 +39,12 @@ button{
     color: white;
     font-weight: 600;
     border: 1px solid white;
-    transform: translateY(-40px);
+    transform: translateY(100px);
     cursor: pointer;
 }
 
 button:hover{
-    margin-left: 180px;
+    margin-left: -600px;
     background-color: rgb(9, 84, 182);
     width: 350px;
     height: 40px;
@@ -53,7 +53,7 @@ button:hover{
     color: white;
     font-weight: 600;
     border: 1px solid white;
-    transform: translateY(-40px);
+    transform: translateY(100px);
     cursor: pointer;
     transition: 0.5s;
 
