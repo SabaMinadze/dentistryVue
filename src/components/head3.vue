@@ -102,7 +102,7 @@ button:hover{
     color: white;
     font-weight: 600;
     border: 1px solid white;
-    transform: translateY(-40px);
+    transform: translateY(290px);
     cursor: pointer;
     transition: 0.5s;
 

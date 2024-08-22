@@ -31,7 +31,7 @@ export default {}
 @media (max-width: 950px) {
     .box {
         height: 180px;
-        width: 400px;
+        width: 370px;
         border-radius: 10px;
         background-color: rgb(0, 101, 237);
     }
