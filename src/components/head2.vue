@@ -116,9 +116,9 @@ ul{
     display: flex;
     list-style: none;
     color: rgb(0, 0, 0);
-    font-size: 7px;
+    font-size: 6px;
     font-weight: 700;
-    margin-left: 5px;
+    margin-left: -30px;
     transform: translateY(-80px);
     gap: 20px;
 }
