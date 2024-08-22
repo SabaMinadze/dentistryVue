@@ -3,9 +3,8 @@ import card from '../components/card.vue'
 export default {
     name: 'App',
     components: {
-    card,
-  },
-    
+        card,
+    },
 }
 </script>
 
@@ -23,53 +22,77 @@ export default {
             <card/>
             <card/>
         </div>
-        
-    </div class="bigBox">
+        <br/><br/><br/>
+    </div>
 </template>
+
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){
-    .cardsBox{
-    display: flex;
-    margin-top: 20px;
-    align-items: center;
-    text-align: center;
-    gap: 30px;
-    
+/* Styles for larger screens */
+@media (min-width: 1200px) {
+    .cardsBox {
+        display: flex;
+        margin-top: -15px;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .text {
+        color: rgb(0, 107, 238);
+        font-weight: 900;
+        text-align: center;
+    }
+
+    .bigBox {
+        margin-top: 20px;
+        text-align: center;
+    }
 }
 
-.text{
-    color: rgb(0,107,238);
-    font-weight: 900;
-    text-align: center;
+/* Styles for tablet screens */
+@media (min-width: 600px) and (max-width: 1199px) {
+    .cardsBox {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        margin-top: 10px;
+    }
+
+    .text {
+        color: rgb(0, 107, 238);
+        font-weight: 900;
+        text-align: center;
+        font-size: 28px;
+    }
+
+    .bigBox {
+        margin-top: 15px;
+        padding: 0 20px;
+    }
 }
 
-.bigBox{
-    margin-top: 20px;
-    text-align: center;
-}
-}
+/* Styles for mobile screens */
+@media (max-width: 599px) {
+    .cardsBox {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        margin-top: 10px;
+    }
 
-@media (min-width: 220px) and (max-width: 950px){
-    .cardsBox{
-    display: inline-flexbox;
-    text-align: center;
-    gap: 90px;
-    
-    
-}
+    .text {
+        color: rgb(0, 107, 238);
+        font-weight: 900;
+        text-align: center;
+        font-size: 24px;
+    }
 
-.text{
-    color: rgb(0,107,238);
-    font-weight: 900;
-    text-align: center;
+    .bigBox {
+        margin-top: 10px;
+        padding: 0 10px;
+    }
 }
-
-.bigBox{
-    margin-top: 20px;
-    text-align: center;
-}
-
-}
-
-    
 </style>
+
