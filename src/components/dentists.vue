@@ -56,6 +56,12 @@ export default {
 }
 }
 
-@media (min-width: 220px) and (max-width: 950px){}
+@media (min-width: 220px) and (max-width: 950px){
+  .bigBox{
+    background-color: rgb(180,212,255);
+    border: 1px solid blue;
+}
+
+}
 
 </style>
