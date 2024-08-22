@@ -16,8 +16,8 @@ export default {
 }
 </script>
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){}
-.bigBox{
+@media (min-width: 1200px) and (max-width: 7777px){
+    .bigBox{
     transform: translateY(-220px);
 }
 
@@ -35,6 +35,9 @@ h2{
     color: rgb(0,101,237);
     transform: translateY(-30px);
 }
+
+}
+
 
 
 </style>

@@ -12,8 +12,8 @@ export default {
 }
 </script>
 <style scoped>
-@media (min-width: 1200px) and (max-width: 7777px){}
-.box{
+@media (min-width: 1200px) and (max-width: 7777px){
+    .box{
     height: 240px;
     width: 400px;
     border-radius: 10px;
@@ -25,5 +25,10 @@ h2{
     color: white;
     transform: translateY(90px);
 }
+
+
+
+}
+
     
 </style>
