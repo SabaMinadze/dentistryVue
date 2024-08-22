@@ -22,9 +22,10 @@ export default {
 }
 
 h1{
+    
     color: rgb(0,101,237);
     font-weight: 900;
-    margin-left: 180px;
+    margin-left: -930px;
     transform: translateY(170px);
     font-size: 28px;
 }
@@ -39,7 +40,7 @@ button{
     color: white;
     font-weight: 600;
     border: 1px solid white;
-    transform: translateY(100px);
+    transform: translateY(180px);
     cursor: pointer;
 }
 

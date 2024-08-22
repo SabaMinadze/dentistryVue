@@ -48,10 +48,30 @@ export default {
     margin-top: 20px;
     text-align: center;
 }
-
 }
 
-@media (min-width: 220px) and (max-width: 950px){}
+@media (min-width: 220px) and (max-width: 950px){
+    .cardsBox{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+    
+}
+
+.text{
+    color: rgb(0,107,238);
+    font-weight: 900;
+    text-align: center;
+}
+
+.bigBox{
+    margin-top: 20px;
+    text-align: center;
+}
+
+}
 
     
 </style>
