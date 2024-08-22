@@ -11,18 +11,18 @@ export default {
 
 <template>
     <div class="bigBox">
-        <center><h1 class="text">სერვისები</h1></center>
-        <center><div class="cardsBox">
+       <h1 class="text">სერვისები</h1>
+       <div class="cardsBox">
             <card/>
             <card/>
             <card/>
-        </div></center>
+        </div>
         <br/>
-        <center><div class="cardsBox">
+       <div class="cardsBox">
             <card/>
             <card/>
             <card/>
-        </div></center>
+        </div>
         <br/><br/>
         
     </div class="bigBox">
@@ -35,7 +35,7 @@ export default {
     align-items: center;
     text-align: center;
     gap: 30px;
-    margin-left: 150px;
+    
 }
 
 .text{

@@ -15,10 +15,26 @@ import footer1 from "../components/footer.vue"
     <head1/>
     <head2/>
     <head3/>
-    <cards/>
-    <residency/>
+    <cards class="cards"/>
+    <residency class="residency"/>
     <achivements/>
     <dentists/>
     <footer1/>
   </div>
 </template>
+
+
+<style scoped>
+.cards{
+  display: grid;
+  place-items: center;
+  height: 100vh; /* or any height you prefer */
+}
+
+.residency{
+  display: grid;
+  place-items: center;
+  height: 200vh;
+
+}
+</style>

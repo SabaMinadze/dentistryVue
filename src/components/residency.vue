@@ -48,7 +48,7 @@ h2{
     align-items: center;
     text-align: center;
     gap: 30px;
-    margin-left: 150px;
+    
 }
 
 .text{
