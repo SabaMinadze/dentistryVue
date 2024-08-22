@@ -98,17 +98,18 @@ img{
 }
 
 .box{
-    height: 115px;
+    height: 80px;
     width: 100%;
     background-color: rgb(0,101,237);
     color: rgb(108,34,166);
 }
 
 img{
-    margin-top: 10px;
     margin-left: 1px;
-    height: 80px;
-    width: 180px;
+    height: 60px;
+    width: 160px;
+    margin-left: 20px;
+    margin-top: 10px;
 }
 
 
