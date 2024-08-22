@@ -76,6 +76,42 @@ img{
 }
 }
 
-@media (min-width: 220px) and (max-width: 950px){}
+@media (min-width: 220px) and (max-width: 950px){
+    .bigBox{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #333; /* Change to your desired background color */
+    z-index: 1000; /* Ensure the navbar stays on top */
+    box-shadow:  rgb(0,101,237);
+    border: 1px solid white;
+
+}
+
+.vl {
+    border-left: 1px solid white;
+    height: 115px;
+    position: absolute;
+    left: 27%;
+    margin-left: -3px;
+    top: 0;
+}
+
+.box{
+    height: 115px;
+    width: 100%;
+    background-color: rgb(0,101,237);
+    color: rgb(108,34,166);
+}
+
+img{
+    margin-top: 10px;
+    margin-left: 1px;
+    height: 80px;
+    width: 180px;
+}
+
+
+}
 
 </style>

@@ -31,7 +31,25 @@
 }
 
 
-@media (min-width: 220px) and (max-width: 950px){}
+@media (min-width: 220px) and (max-width: 950px){
+    .box{
+    height: 35px;
+    width: 100%;
+    background-color: rgb(180,212,255);
+    color: rgb(23,111,238);
+    font-size: 10px;
+    display: flex;
+}
+
+.txt{
+    display: flex;
+    margin-left: 7px;
+    font-size: 6px;
+    font-weight: 700;
+    margin-top: 7px;
+}
+
+}
 
 
 </style>
