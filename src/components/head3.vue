@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="box">
-            <center><h1>ალგანი დენტი</h1></center>
+            <center><h1>დენტისტრი</h1></center>
             <center><button>კითხვა გაქვთ? დაგვიკავშირდით</button></center>
             <center><img src="../assets/logo2.jpg" alt="error"></center>
         </div>
