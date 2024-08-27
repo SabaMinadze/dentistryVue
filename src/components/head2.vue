@@ -108,20 +108,20 @@ img{
 }
 
 img{
-    margin-left: 1px;
-    height: 60px;
-    width: 160px;
+    height: 70px;
+    width: 150px;
     margin-left: 20px;
-    margin-top: 10px;
+    margin-top: 5px;
+    border-radius: 70px;
 }
 
 ul{
     display: flex;
     list-style: none;
-    color: rgb(0, 0, 0);
-    font-size: 6px;
+    color: rgb(218,165,32);
+    font-size: 3px;
     font-weight: 700;
-    margin-left: -30px;
+    margin-left: 130px;
     transform: translateY(-80px);
     gap: 20px;
 }

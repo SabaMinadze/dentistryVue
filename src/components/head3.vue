@@ -114,6 +114,7 @@ img{
     height: 170px;
     width: 170px;
     transform: translateY(-70px);
+    border-radius: 100px;
 }
 
 }
