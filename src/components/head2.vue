@@ -119,11 +119,11 @@ ul{
     display: flex;
     list-style: none;
     color: rgb(218,165,32);
-    font-size: 3px;
+    font-size: 1px;
     font-weight: 700;
-    margin-left: 130px;
+    margin-left: 160px;
     transform: translateY(-80px);
-    gap: 20px;
+    
 }
 
 p{
