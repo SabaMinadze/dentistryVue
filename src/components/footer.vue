@@ -54,7 +54,7 @@ export default {}
     .footer-img {
         height: 100px;
         width: 250px;
-        border-radius: 120px;
+        border-radius: 150px;
     }
 
     .footer-text {
