@@ -98,14 +98,12 @@ button:hover{
     width: 350px;
     height: 40px;
     border-radius: 15px;
-    font-size: 20px;
     color: white;
     font-weight: 600;
     border: 1px solid white;
     transform: translateY(290px);
     cursor: pointer;
     transition: 0.5s;
-
 }
 
 img{
