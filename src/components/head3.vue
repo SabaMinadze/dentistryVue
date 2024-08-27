@@ -94,7 +94,6 @@ button{
 }
 
 button:hover{
-    margin-left: 180px;
     background-color: rgb(147, 114, 31);
     width: 350px;
     height: 40px;
