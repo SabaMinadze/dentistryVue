@@ -17,7 +17,7 @@ export default {}
         height: 240px;
         width: 400px;
         border-radius: 10px;
-        background-color: rgb(0, 101, 237);
+        background-color: rgb(218,165,32);
     }
 
     h2 {

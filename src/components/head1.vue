@@ -16,7 +16,7 @@
     .box{
     height: 35px;
     width: 100%;
-    background-color: rgb(180,212,255);
+    background-color: rgb(0, 0, 0);
     color: rgb(23,111,238);
     font-size: 10px;
     display: flex;

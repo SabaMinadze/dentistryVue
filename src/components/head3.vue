@@ -32,7 +32,7 @@ h1{
 
 button{
     margin-left: -830px;
-    background-color: rgb(0,101,237);
+    background-color: rgb(218,165,32);
     width: 350px;
     height: 40px;
     border-radius: 15px;
@@ -46,7 +46,7 @@ button{
 
 button:hover{
     margin-left: -830px;
-    background-color: rgb(15, 69, 138);
+    background-color: rgb(147, 114, 31);
     width: 350px;
     height: 40px;
     border-radius: 15px;
