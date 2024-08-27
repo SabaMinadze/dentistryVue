@@ -29,7 +29,7 @@
     width: 100%;
     background-color: #333; /* Change to your desired background color */
     z-index: 1000; /* Ensure the navbar stays on top */
-    box-shadow:  rgb(0,101,237);
+    box-shadow:  gray;
     border: 1px solid white;
 
 }
@@ -85,7 +85,7 @@ img{
     width: 100%;
     background-color: #333; /* Change to your desired background color */
     z-index: 1000; /* Ensure the navbar stays on top */
-    box-shadow:  rgb(0,101,237);
+    box-shadow:  rgb(132, 132, 132);
     border: 1px solid white;
 
 }

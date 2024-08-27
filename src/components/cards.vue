@@ -61,7 +61,7 @@ export default {
     }
 
     .text {
-        color: rgb(0, 0, 0);
+        color: silver;
         font-weight: 900;
         text-align: center;
         font-size: 28px;
@@ -84,7 +84,7 @@ export default {
     }
 
     .text {
-        color: rgb(0, 0, 0);
+        color: silver;
         font-weight: 900;
         text-align: center;
         font-size: 24px;
@@ -93,7 +93,7 @@ export default {
     .bigBox {
         margin-top: 10px;
         padding: 0 10px;
-        background-color: rgb(180,212,255);
+        background-color: white;
         margin-top: 30px;
     }
 }

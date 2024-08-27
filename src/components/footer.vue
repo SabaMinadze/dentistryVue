@@ -47,7 +47,7 @@ export default {}
     .footer {
         width: 100%;
         padding: 20px 0;
-        background-color: rgb(218,165,32);
+        background-color: silver;
         text-align: center;
     }
 

@@ -42,7 +42,7 @@ h2{
 @media (min-width: 220px) and (max-width: 950px){
     .bigBox{
         margin-top: 40px;
-        background-color: rgb(180,212,255);
+        background-color: white;
     
 }
 

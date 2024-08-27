@@ -32,8 +32,8 @@ export default {
     .box {
         height: 400px;
         width: 100%;
-        background-color: rgb(180, 212, 255);
-        border: 1px solid blue;
+        background-color: white;
+        border: 1px solid gray;
     }    
 
     h2 {
@@ -53,7 +53,7 @@ export default {
     }
 
     .text {
-        color: rgb(0, 107, 238);
+        color: silver;
         font-weight: 900;
         text-align: center;
     }
@@ -69,16 +69,16 @@ export default {
 @media (max-width: 950px) {
 
     .hugeBox{
-        background-color: rgb(180, 212, 255);
+        background-color: white;
         height: 750px;
-        border: 1px solid blue;
+        border: 1px solid silver;
         margin-top: 30px;
     }
 
     .box {
         height: auto;
         padding: 20px 10px;
-        background-color: rgb(180, 212, 255);
+        background-color: white;
     }    
 
     h2 {
@@ -96,7 +96,7 @@ export default {
     }
 
     .text {
-        color: rgb(0, 107, 238);
+        color: white;
         font-weight: 900;
         text-align: center;
         font-size: 20px;

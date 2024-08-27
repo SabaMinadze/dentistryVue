@@ -18,7 +18,7 @@ export default {
     .box{
     width: 100%;
     height: 450px;
-    background-color: rgb(180,212,255);
+    background-color: white;
 }
 
 h1{
@@ -71,11 +71,11 @@ img{
     .box{
     width: 100%;
     height: 400px;
-    background-color: rgb(180,212,255);
+    background-color: white;
 }
 
 h1{
-    color: rgb(0, 0, 0);
+    color: silver;
     font-weight: 900;
     transform: translateY(270px);
     font-size: 25px;
