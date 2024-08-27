@@ -116,11 +116,12 @@ img{
 }
 
 ul{
+    display: flex;
     list-style: none;
     color:  rgb(218,165,32);
     font-size: 1px;
     font-weight: 700;
-    margin-left: -35px;
+    margin-left: -40px;
     transform: translateY(-60px);
     
 }
