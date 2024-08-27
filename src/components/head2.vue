@@ -116,20 +116,18 @@ img{
 }
 
 ul{
-    display: flex;
     list-style: none;
-    color: rgba(255, 255, 255, 0.717);
+    color:  rgb(218,165,32);
     font-size: 1px;
     font-weight: 700;
-    margin-left: 80px;
-    transform: translateY(-40px);
+    margin-left: -35px;
+    transform: translateY(-60px);
     
 }
 
 p{
     font-weight: 600;
     margin-top: 5px;
-    cursor: pointer;
 }
 
 .txt{
