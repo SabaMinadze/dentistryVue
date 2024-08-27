@@ -35,7 +35,7 @@ export default {
   .bigBox{
     background-color: rgb(180,212,255);
     border: 1px solid blue;
-}
+  }  
 
 .card{
     display: flex;
@@ -60,7 +60,15 @@ export default {
   .bigBox{
     background-color: rgb(180,212,255);
     border: 1px solid blue;
+    margin-top: 50px;
 }
+
+  .txt{
+      color: rgb(0, 0, 0);
+      font-weight: 900;
+      text-align: center;
+      font-size: 24px;
+  }
 
 }
 

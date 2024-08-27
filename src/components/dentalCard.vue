@@ -88,8 +88,8 @@ h2{
         font-size: 15px;
         margin: 10px auto; /* Center card with margin */
         border-radius: 10px;
-        border: 1px solid blue;
-        color: rgb(0, 101, 237);
+        border: 1px solid rgb(218,165,32);
+        color: rgb(218,165,32);
         text-align: center;
     }
 
@@ -127,7 +127,7 @@ h2{
     }
 
     h2 {
-        font-size: 14px;
+        font-size: 19px;
     }
 }
 </style>

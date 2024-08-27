@@ -40,7 +40,8 @@ h2{
 
 @media (min-width: 220px) and (max-width: 950px){
     .bigBox{
-        margin-top: 30px;
+        margin-top: 40px;
+        background-color: rgb(180,212,255);
     
 }
 
@@ -53,10 +54,10 @@ img{
 }
 
 h2{
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 700;
     color: rgb(0, 0, 0);
-    transform: translateY(-30px);
+    transform: translateY(-3px);
 }
 
 

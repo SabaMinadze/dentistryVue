@@ -72,6 +72,7 @@ export default {
         background-color: rgb(180, 212, 255);
         height: 750px;
         border: 1px solid blue;
+        margin-top: 30px;
     }
 
     .box {
@@ -83,7 +84,7 @@ export default {
     h2 {
         font-size: 24px;
         font-weight: 700;
-        color: rgb(0, 101, 237);
+        color: rgb(0, 0, 0);
         transform: translateY(10px);
     }
 
