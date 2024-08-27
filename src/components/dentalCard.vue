@@ -29,8 +29,8 @@ export default {
     font-size: 17px;
     margin-left: -600px;
     border-radius: 10px;
-    border: 1px solid blue;
-    color: rgb(0,101,237);
+    border: 1px solid rgb(218,165,32);
+    color: rgb(218,165,32);
 }
 
 img{
@@ -57,8 +57,8 @@ h2{
         font-size: 16px;
         margin: 20px auto; /* Center card with margin */
         border-radius: 10px;
-        border: 1px solid blue;
-        color: rgb(0, 101, 237);
+        border: 1px solid rgb(218,165,32);
+        color: rgb(218,165,32);
         text-align: center;
     }
 

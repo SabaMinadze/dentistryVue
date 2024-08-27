@@ -52,7 +52,7 @@ export default {
 .txt{
     font-size: 30px;
     font-weight: 700;
-    color: rgb(0,101,237);
+    color: rgb(0, 0, 0);
 }
 }
 

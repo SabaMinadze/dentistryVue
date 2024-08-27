@@ -18,7 +18,8 @@ export default {
 <style scoped>
 @media (min-width: 1200px) and (max-width: 7777px){
     .bigBox{
-    transform: translateY(-220px);
+        transform: translateY(-440px);
+        height: 10px;
 }
 
 img{

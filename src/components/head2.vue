@@ -1,7 +1,7 @@
 <template>
     <div class="bigBox">
         <div class="box">
-            <img src="../assets/logo.png" alt="error" height="110px" width="300px">
+            <img src="../assets/logo2.jpg" alt="error" height="110px" width="190px">
             <div class="vl"></div>
             <ul>
                 <li><p>მთავარი</p></li>
@@ -73,6 +73,9 @@ p{
 
 img{
     margin-left: 100px;
+    border-radius: 20px;
+    margin-top: 3px;
+    border-radius: 150px;
 }
 }
 

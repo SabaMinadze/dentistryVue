@@ -3,7 +3,7 @@
         <div class="box">
             <center><h1>ალგანი დენტი</h1></center>
             <center><button>კითხვა გაქვთ? დაგვიკავშირდით</button></center>
-            <center><img src="../assets/logo2.png" alt="error"></center>
+            <center><img src="../assets/logo2.jpg" alt="error"></center>
         </div>
         
     </div>
@@ -61,7 +61,9 @@ button:hover{
 
 img{
     margin-left: 570px;
-    transform: translateY(30px);
+    transform: translateY(-10px);
+    height: 300px;
+    border-radius: 140px;
 }
 }
 
