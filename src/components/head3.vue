@@ -23,7 +23,7 @@ export default {
 
 h1{
     
-    color: rgb(0,101,237);
+    color: rgb(218,165,32);
     font-weight: 900;
     margin-left: -930px;
     transform: translateY(170px);
@@ -73,14 +73,14 @@ img{
 }
 
 h1{
-    color: rgb(0,101,237);
+    color: rgb(0, 0, 0);
     font-weight: 900;
     transform: translateY(270px);
     font-size: 25px;
 }
 
 button{
-    background-color: rgb(0,101,237);
+    background-color: rgb(218,165,32);
     width: 350px;
     height: 40px;
     border-radius: 15px;
@@ -94,7 +94,7 @@ button{
 
 button:hover{
     margin-left: 180px;
-    background-color: rgb(9, 84, 182);
+    background-color: rgb(147, 114, 31);
     width: 350px;
     height: 40px;
     border-radius: 15px;

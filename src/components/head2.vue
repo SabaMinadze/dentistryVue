@@ -100,7 +100,7 @@ img{
 .box{
     height: 80px;
     width: 100%;
-    background-color: rgb(0,101,237);
+    background-color: rgb(218,165,32);
     color: rgb(108,34,166);
 }
 

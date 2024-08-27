@@ -39,7 +39,7 @@ export default {
     }
 
     .text {
-        color: rgb(0, 107, 238);
+        color: rgb(218,165,32);
         font-weight: 900;
         text-align: center;
     }

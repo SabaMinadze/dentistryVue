@@ -9,7 +9,7 @@ export default {
 </script>
 
 <template>
-    <div>
+    <div class="hugeBox">
         <div class="box">
             <center><h2>რეზიდენტურა</h2></center>
         </div>
@@ -67,11 +67,17 @@ export default {
 
 /* Styles for mobile screens */
 @media (max-width: 950px) {
+
+    .hugeBox{
+        background-color: rgb(180, 212, 255);
+        height: 750px;
+        border: 1px solid blue;
+    }
+
     .box {
         height: auto;
         padding: 20px 10px;
         background-color: rgb(180, 212, 255);
-        border: 1px solid blue;
     }    
 
     h2 {
