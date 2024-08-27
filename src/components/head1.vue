@@ -44,7 +44,7 @@
 .txt{
     display: flex;
     margin-left: 7px;
-    font-size: 6px;
+    font-size: 5px;
     font-weight: 700;
     margin-top: 7px;
 }
