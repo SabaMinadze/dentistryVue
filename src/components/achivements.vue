@@ -22,7 +22,7 @@ export default {
 }
 
 img{
-    border: 5px solid blue;
+    border: 5px solid rgb(218,165,32);
     margin-left: 30px;
     border-radius: 10px;
     width: 270px;
@@ -32,14 +32,35 @@ img{
 h2{
     font-size: 30px;
     font-weight: 700;
-    color: rgb(0,101,237);
+    color: rgb(0, 0, 0);
     transform: translateY(-30px);
 }
 
 }
 
-@media (min-width: 220px) and (max-width: 950px){}
+@media (min-width: 220px) and (max-width: 950px){
+    .bigBox{
+        margin-top: 30px;
+    
+}
 
+img{
+    border: 5px solid rgb(218,165,32);
+    margin-left: 30px;
+    border-radius: 10px;
+    width: 270px;
+
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    transform: translateY(-30px);
+}
+
+
+}
 
 
 </style>

@@ -19,7 +19,7 @@ export default {}
     .footer {
         width: 100%;
         height: 290px;
-        background-color: rgb(0, 101, 237);
+        background-color: rgb(218,165,32);
     }
 
     .footer-img {
@@ -44,7 +44,7 @@ export default {}
     .footer {
         width: 100%;
         padding: 20px 0;
-        background-color: rgb(0, 101, 237);
+        background-color: rgb(218,165,32);
         text-align: center;
     }
 
