@@ -84,7 +84,7 @@ export default {
     }
 
     .text {
-        color: silver;
+        color: black;
         font-weight: 900;
         text-align: center;
         font-size: 24px;
