@@ -39,7 +39,7 @@ export default {
     h2 {
         font-size: 30px;
         font-weight: 700;
-        color: rgb(218,165,32);
+        color: silver;
         transform: translateY(40px);
     }
 
@@ -84,7 +84,7 @@ export default {
     h2 {
         font-size: 24px;
         font-weight: 700;
-        color: rgb(218,165,32);
+        color: silver;
         transform: translateY(10px);
     }
 

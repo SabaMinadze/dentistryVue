@@ -23,7 +23,7 @@ export default {
 
 h1{
     
-    color: rgb(218,165,32);
+    color: silver;
     font-weight: 900;
     margin-left: -930px;
     transform: translateY(170px);
@@ -32,7 +32,7 @@ h1{
 
 button{
     margin-left: -830px;
-    background-color: rgb(218,165,32);
+    background-color: silver;
     width: 350px;
     height: 40px;
     border-radius: 15px;
@@ -46,7 +46,7 @@ button{
 
 button:hover{
     margin-left: -830px;
-    background-color: rgb(147, 114, 31);
+    background-color: rgb(95, 89, 89);
     width: 350px;
     height: 40px;
     border-radius: 15px;
@@ -82,7 +82,7 @@ h1{
 }
 
 button{
-    background-color: rgb(218,165,32);
+    background-color: silver;
     width: 350px;
     height: 40px;
     border-radius: 15px;
@@ -94,7 +94,7 @@ button{
 }
 
 button:hover{
-    background-color: rgb(147, 114, 31);
+    background-color: rgb(95, 89, 89);
     width: 350px;
     height: 40px;
     border-radius: 15px;

@@ -23,7 +23,7 @@ export default {
 }
 
 img{
-    border: 5px solid rgb(218,165,32);
+    border: 5px solid silver;
     margin-left: 30px;
     border-radius: 10px;
     width: 270px;
@@ -33,7 +33,7 @@ img{
 h2{
     font-size: 30px;
     font-weight: 700;
-    color: rgb(218,165,32);
+    color: silver;
     transform: translateY(-30px);
 }
 
@@ -47,7 +47,7 @@ h2{
 }
 
 img{
-    border: 5px solid rgb(218,165,32);
+    border: 5px solid silver;;
     margin-left: 30px;
     border-radius: 10px;
     width: 270px;
@@ -57,7 +57,7 @@ img{
 h2{
     font-size: 28px;
     font-weight: 700;
-    color: rgb(218,165,32);
+    color: silver;
     transform: translateY(-3px);
 }
 

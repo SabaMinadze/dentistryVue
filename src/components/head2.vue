@@ -46,8 +46,7 @@
 .box{
     height: 115px;
     width: 100%;
-    background-color: rgb(218,165,32);
-    color: rgb(108,34,166);
+    background-color: silver;
 }
 
 ul{
@@ -103,8 +102,7 @@ img{
 .box{
     height: 80px;
     width: 100%;
-    background-color: rgb(218,165,32);
-    color: rgb(108,34,166);
+    background-color: silver;
 }
 
 img{

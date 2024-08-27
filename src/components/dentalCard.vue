@@ -29,8 +29,8 @@ export default {
     font-size: 17px;
     margin-left: -600px;
     border-radius: 10px;
-    border: 1px solid rgb(218,165,32);
-    color: rgb(218,165,32);
+    border: 1px solid silver;
+    color: silver;
 }
 
 img{
@@ -57,8 +57,8 @@ h2{
         font-size: 16px;
         margin: 20px auto; /* Center card with margin */
         border-radius: 10px;
-        border: 1px solid rgb(218,165,32);
-        color: rgb(218,165,32);
+        border: 1px solid silver;
+        color: silver;
         text-align: center;
     }
 
@@ -88,8 +88,8 @@ h2{
         font-size: 15px;
         margin: 10px auto; /* Center card with margin */
         border-radius: 10px;
-        border: 1px solid rgb(218,165,32);
-        color: rgb(218,165,32);
+        border: 1px solid silver;
+        color: silver;
         text-align: center;
     }
 

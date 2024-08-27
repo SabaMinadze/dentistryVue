@@ -52,7 +52,7 @@ export default {
 .txt{
     font-size: 30px;
     font-weight: 700;
-    color: rgb(218,165,32);
+    color: silver;
 }
 }
 
@@ -64,7 +64,7 @@ export default {
 }
 
   .txt{
-      color: rgb(218,165,32);
+      color: silver;
       font-weight: 900;
       text-align: center;
       font-size: 24px;
