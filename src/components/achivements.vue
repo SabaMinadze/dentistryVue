@@ -33,7 +33,7 @@ img{
 h2{
     font-size: 30px;
     font-weight: 700;
-    color: rgb(0, 0, 0);
+    color: rgb(218,165,32);
     transform: translateY(-30px);
 }
 
@@ -57,7 +57,7 @@ img{
 h2{
     font-size: 28px;
     font-weight: 700;
-    color: rgb(0, 0, 0);
+    color: rgb(218,165,32);
     transform: translateY(-3px);
 }
 

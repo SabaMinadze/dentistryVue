@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="footer">
-            <center><img src="../assets/loggo1.png" alt="error" class="footer-img"></center>
+            <center><img src="../assets/logo2.jpg" alt="error" class="footer-img"></center>
             <center><h2 class="footer-text">📞 574 42 42 38</h2></center>
             <center><hr class="footer-hr"/></center>
             <center><h2 class="footer-text">🗺️ ქ. თბილისი, დიდუბე, ვახუშტი ბაგრატიონის #19</h2></center>
@@ -25,7 +25,8 @@ export default {}
     .footer-img {
         margin-top: 30px;
         height: 150px;
-        width: 380px;
+        width: 300px;
+        border-radius: 120px;
     }
 
     .footer-text {
@@ -37,6 +38,8 @@ export default {}
         color: white;
         width: 700px;
     }
+
+    
 }
 
 /* Styles for mobile screens */

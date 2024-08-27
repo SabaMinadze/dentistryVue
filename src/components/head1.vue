@@ -16,8 +16,8 @@
     .box{
     height: 35px;
     width: 100%;
-    background-color: rgb(0, 0, 0);
-    color: rgb(23,111,238);
+    background-color: white;
+    color: rgb(0, 0, 0);
     font-size: 10px;
     display: flex;
     font-weight: 900;
