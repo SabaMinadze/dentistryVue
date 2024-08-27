@@ -116,7 +116,7 @@ img{
 ul{
     display: flex;
     list-style: none;
-    color:  rgb(180,212,255);
+    color:  rgb(255, 255, 255);
     font-size: 1px;
     font-weight: 700;
     margin-left: -40px;
