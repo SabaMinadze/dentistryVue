@@ -118,11 +118,11 @@ img{
 ul{
     display: flex;
     list-style: none;
-    color:  rgb(218,165,32);
+    color:  rgb(180,212,255);
     font-size: 1px;
     font-weight: 700;
     margin-left: -40px;
-    transform: translateY(-60px);
+    transform: translateY(160px);
     
 }
 
