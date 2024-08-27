@@ -86,7 +86,6 @@ button{
     width: 350px;
     height: 40px;
     border-radius: 15px;
-    font-size: 20px;
     color: white;
     font-weight: 600;
     border: 1px solid white;
