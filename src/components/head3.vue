@@ -25,7 +25,7 @@ h1{
     
     color: silver;
     font-weight: 900;
-    margin-left: -930px;
+    margin-left: -980px;
     transform: translateY(170px);
     font-size: 28px;
 }
